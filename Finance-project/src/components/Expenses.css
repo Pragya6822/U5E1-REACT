@@ -1,0 +1,14 @@
+/* Expenses.css */
+form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  form input, form button {
+    margin-bottom: 10px;
+  }
+  
+  form button {
+    align-self: flex-start;
+  }
+  

@@ -1,0 +1,26 @@
+/* Savings.css */
+.savings {
+    text-align: center;
+  }
+  
+  .savings input {
+    margin: 20px auto;
+    width: 50%;
+  }
+  
+  .progress-bar {
+    width: 80%;
+    background: #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 10px auto;
+  }
+  
+  .progress-bar span {
+    display: block;
+    height: 20px;
+    background: #4CAF50;
+    width: 0;
+    transition: width 0.3s;
+  }
+  

@@ -1,0 +1,28 @@
+/* Home.css */
+.summary {
+  text-align: center;
+  width: 600px;
+  margin: auto;
+  padding: 30px 15px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px;
+}
+
+.summary p {
+  font-size: 18px;
+  margin: 5px 0;
+}
+
+.quick-links {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  
+}
+
+.quick-links a {
+  margin: 0 10px;
+  list-style-type: none;
+  text-decoration: none;
+  
+}
